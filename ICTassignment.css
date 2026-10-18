@@ -1,0 +1,71 @@
+body{
+  background: linear-gradient(to right.beige,whitesmoke);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+
+}
+h1{
+  color:darkred;
+  border-top-style: dotted;
+  border-bottom-style: double;
+  border-left-width: 15px;
+  border-left-color: silver;
+
+
+}
+
+p{
+font-family: optima,sans-serif;
+color: darkred;
+
+font-weight: bold;
+border-style: solid;
+border-width: 3px;
+border-color: darkgoldenred;
+border-radius: 10px;
+padding: 5px;
+
+
+}
+.button-container {
+    margin: 20px 0;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.2s ease;
+}
+
+/* GitHub Button Styling */
+.github-btn {
+    background-color: #24292e;
+    color: #ffffff;
+}
+
+.github-btn:hover {
+    background-color: #444d56;
+}
+
+/* MCU / Marvel Website Button Styling */
+.mcu-btn {
+    background-color: #e62429;
+    color: #ffffff;
+}
+
+.mcu-btn:hover {
+    background-color: #f0484d;
+}
